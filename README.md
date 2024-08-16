@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Engr. Muzamil Hassan Magsi</h1>
-<a href="https://asciinema.org/a/659042" rel="nofollow"><img src="https://asciinema.org/a/659042.svg"  title="click to watch" style="max-width: 100%;"></a>
 <h3 align="center">IBM-Certified Data Scientist, Google-Certified Data Analyst, and META-Certified Front-End Developer with expertise in machine learning, data analytics, and web development.</h3>
 
 
