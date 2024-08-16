@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Engr. Muzamil Hassan Magsi</h1>
-<img align="center"src="banner.gif" width=800 style="width: 100%; height: 250px; object-fit: cover;display: block; margin: auto;align-items: center;>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB3NGhubGZmeWh2dDR6aW5kZjA2Z3ZvY2x5OTd1bzI0NGk5YmQ0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" >
 <h3 align="center"></h3>
 <h3>👨🏻‍💻  About Me <img src="https://camo.githubusercontent.com/2fa9a884d43000873de7a1c7f96f78971ce1e7af7e5fbf8aad7ec600974992e6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" alt="emoji-gif" style="width: 50px; height: 50px;"></h3>
 
