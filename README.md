@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Engr. Muzamil Hassan Magsi</h1>
 <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <h3 align="center"></h3>
+
+
 <h3>👨🏻‍💻  About Me <img src="https://camo.githubusercontent.com/2fa9a884d43000873de7a1c7f96f78971ce1e7af7e5fbf8aad7ec600974992e6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" alt="emoji-gif" style="width: 50px; height: 50px;"></h3>
 
  
@@ -21,6 +23,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/muzamil-hassan-magsi/](https://www.linkedin.com/in/muzamil-hassan-magsi/)
 
   <h3 tabindex="-1" class="heading-element" dir="auto"> 🛠 &nbsp;Tech Stack</h3>
+  <a  ><img src="https://raw.githubusercontent.com/FedericoCeratto/dashing/gh-pages/tty.gif" align="right" width="50%" style="max-width: 100%;"></a>
 <ul dir="auto">
 <li>
 <p dir="auto">💻 &nbsp;
