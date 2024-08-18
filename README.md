@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Engr. Muzamil Hassan Magsi</h1>
-<img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<h1 align="center">Hi 👋, I'm Engr. Muzamil Hassan Magsi    </h1>
+<img src="code.gif">
 <h3 align="center"></h3>
 
 
@@ -22,8 +22,8 @@
 - 🔭 I’m currently working on **Federated Learning in AI and ML**
 - 📄 Know about my experiences [https://www.linkedin.com/in/muzamil-hassan-magsi/](https://www.linkedin.com/in/muzamil-hassan-magsi/)
 
-  <h3 tabindex="-1" class="heading-element" dir="auto"> 🛠 &nbsp;Tech Stack</h3>
-  <a  ><img src="https://raw.githubusercontent.com/FedericoCeratto/dashing/gh-pages/tty.gif" align="right" width="50%" style="max-width: 100%;"></a>
+  <h3 tabindex="-1" class="heading-element" dir="auto"> 🛠 &nbsp;Tech Stack </h3>
+  <a  ><img src="lib.gif" align="right" width="50%" style="max-width: 100%;"></a>
 <ul dir="auto">
 <li>
 <p dir="auto">💻 &nbsp;
@@ -65,35 +65,90 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d8932bbfd71bc046a82e449545f35985b9a78f4ac73cd8b0d6e61f9f45179b30/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3333333333333f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343"><img src="https://camo.githubusercontent.com/d8932bbfd71bc046a82e449545f35985b9a78f4ac73cd8b0d6e61f9f45179b30/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3333333333333f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343" alt="Visual Studio Code" data-canonical-src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" style="max-width: 100%;"></a>
 
  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9475b3a10b5f05af8f04d9482f79a2aa1b92ad1b451fba8c92b7798f77e81434/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5079636861726d2d3333333333333f7374796c653d666c6174266c6f676f3d5079636861726d2d636f6465266c6f676f436f6c6f723d303037414343"><img src="https://camo.githubusercontent.com/9475b3a10b5f05af8f04d9482f79a2aa1b92ad1b451fba8c92b7798f77e81434/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5079636861726d2d3333333333333f7374796c653d666c6174266c6f676f3d5079636861726d2d636f6465266c6f676f436f6c6f723d303037414343" alt="PyCharm" data-canonical-src="https://img.shields.io/badge/-Pycharm-333333?style=flat&amp;logo=Pycharm-code&amp;logoColor=007ACC" style="max-width: 100%;"></a></p>
-</li>
-<li>
-<p dir="auto">OS &nbsp;
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/02cbc2b53285d3132c1ef42dad99e8cd906e7b22d6272bee13a4204c5ba225e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d3333333333333f7374796c653d666c6174266c6f676f3d77696e646f7773266c6f676f436f6c6f723d303037414343"><img src="https://camo.githubusercontent.com/02cbc2b53285d3132c1ef42dad99e8cd906e7b22d6272bee13a4204c5ba225e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d3333333333333f7374796c653d666c6174266c6f676f3d77696e646f7773266c6f676f436f6c6f723d303037414343" alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-333333?style=flat&amp;logo=windows&amp;logoColor=007ACC" style="max-width: 100%;"></a></p>
-</li>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9475b3a10b5f05af8f04d9482f79a2aa1b92ad1b451fba8c92b7798f77e81434/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5079636861726d2d3333333333333f7374796c653d666c6174266c6f676f3d5079636861726d2d636f6465266c6f676f436f6c6f723d303037414343"><img src="https://camo.githubusercontent.com/9475b3a10b5f05af8f04d9482f79a2aa1b92ad1b451fba8c92b7798f77e81434/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5079636861726d2d3333333333333f7374796c653d666c6174266c6f676f3d5079636861726d2d636f6465266c6f676f436f6c6f723d303037414343" alt="PyCharm" data-canonical-src="https://img.shields.io/badge/-Pycharm-333333?style=flat&amp;logo=Pycharm-code&amp;logoColor=007ACC" style="max-width: 100%;"></a></p></li>
+
+<li><p dir="auto">OS &nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/02cbc2b53285d3132c1ef42dad99e8cd906e7b22d6272bee13a4204c5ba225e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d3333333333333f7374796c653d666c6174266c6f676f3d77696e646f7773266c6f676f436f6c6f723d303037414343"><img src="https://camo.githubusercontent.com/02cbc2b53285d3132c1ef42dad99e8cd906e7b22d6272bee13a4204c5ba225e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d3333333333333f7374796c653d666c6174266c6f676f3d77696e646f7773266c6f676f436f6c6f723d303037414343" alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-333333?style=flat&amp;logo=windows&amp;logoColor=007ACC" style="max-width: 100%;"></a></p></li>
 </ul>
-
-<h3> 🤝🏻  Connect with Me   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif"  style="width: 50px; height: 40px;"></h3>
-<p>
-<a href="https://linkedin.com/in/muzamil-hassan-magsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muzamil-hassan-magsi" height="30" width="40" /></a>
-<a href="https://kaggle.com/muzamilmagsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muzamilmagsi" height="30" width="40" /></a></p>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muzamil5hassan&label=Profile%20views&color=0e75b6&style=flat" alt="muzamil5hassan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzamil5hassan" alt="muzamil5hassan" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 
 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzamil5hassan&show_icons=true&locale=en&layout=compact" alt="muzamil5hassan" /></p>
+<img src="o2-bubl.gif" alt="emoji-gif"  align='right' style="width: 90px; height: 90px; " >
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muzamil5hassan&show_icons=true&locale=en" alt="muzamil5hassan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzamil5hassan&" alt="muzamil5hassan" /></p>
+<h3> 🤝🏻  Connect with Me   <img src="Handshake.gif"  style="width: 50px; height: 40px;"></h3>
+<br>
+
+<p>
+<a href="https://linkedin.com/in/muzamil-hassan-magsi" target="blank"><img align="center" src="linkedin.gif" alt="muzamil-hassan-magsi" height="60" width="60" /></a>
+<a href="https://kaggle.com/muzamilmagsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muzamilmagsi" height="30" width="40" /></a></p>
+
+## 🏆 Trophies
+[![Trophies](https://github-profile-trophy.vercel.app/?username=muzamil5hassan&no-frame=true&no-bg=true&theme=juicyfresh&column=5&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📈 My GitHub Stats <img src="easy.gif" width="40px">
+![](https://allhacked.com/up/2019/03/hello-world.gif)
+<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F77676&width=500&lines=This+is+my+GitHub+stats">
+
+
+
+<div align=center>
+          <img alt="gif" align="center" src="hi-robot.gif" width=300 height=300/>
+    </div>
+
+<br>
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Muzamil+Hassan+Magsi+%F0%9F%91%8B;Passionate+Data+Scientist;Matlab+language+Enthusiast" alt="Headline" />
+    </div>
+
+
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muzamil5hassan&label=Profile%20views&color=0e75b6&style=flat" alt="muzamil5hassan" /> </p>
+
+<div align=center>
+          <img alt="gif" align="center" src="work-social-life.gif" width=200 height=200/>
+    </div>
+<br>
+
+<table width="100%"> 
+  <tr>
+    <td width="40%">
+      <img src="https://github-readme-stats.vercel.app/api?username=muzamil5hassan&show_icons=true&theme=algolia">
+    </td>
+    <td width="30%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muzamil5hassan&layout=compact&langs_count=8&theme=algolia">
+    </td>
+    <td width="30%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muzamil5hassan&amp;langs_count=8&amp;theme=algolia">
+    </td>
+  </tr>
+</table>
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class ComputerSystemEngineer:
+    def __init__(self):
+        self.name    = "Muzamil Hassan Magsi"
+        self.role    = "Data Scientist"
+        self.contact = "muzamilmagsi741@gmail.com"
+        self.work    = "Data Scientist, Machine Learning"
+        self.learn   = "AI and ML ALgorithm "
+    
+    def getCity():
+        return Bahawalpur()
+
+me = DataScientist()
+```
+
+<p align="center"> 
+  Visitors :<br>
+  <img src="https://profile-counter.glitch.me/muzamil5hassan/count.svg" />
+</p>
