@@ -3,7 +3,7 @@
 <h3 align="center"></h3>
 
 
-<h3>👨🏻‍💻  About Me <img src="graph.gif" alt="emoji-gif" style="width: 50px; height: 50px;"></h3>
+<h3>👨🏻‍💻  About Me <img src="bessel.gif" alt="emoji-gif" style="width: 50px; height: 50px;"></h3>
 
  
 - 🎓 I hold a B.Sc in Computer Systems Engineering.
