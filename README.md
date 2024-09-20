@@ -3,7 +3,7 @@
 <h3 align="center"></h3>
 
 
-<h3>👨🏻‍💻  About Me <img src="https://camo.githubusercontent.com/2fa9a884d43000873de7a1c7f96f78971ce1e7af7e5fbf8aad7ec600974992e6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" alt="emoji-gif" style="width: 50px; height: 50px;"></h3>
+<h3>👨🏻‍💻  About Me <img src="graph.gif" alt="emoji-gif" style="width: 50px; height: 50px;"></h3>
 
  
 - 🎓 I hold a B.Sc in Computer Systems Engineering.
